@@ -16,9 +16,21 @@
   border: 1px solid #333; /* Add a border for better visibility */
 }
 
-.piece svg{
+.square svg{
   width: 1.4rem;
   height: 1.4rem;
+  position: relative;
+  z-index: -9;
+}
+
+.path {
+  position: relative;
+  z-index: 10;
+}
+
+.piece {
+  position: relative;
+  z-index: 9;
 }
 
 .white-piece {
