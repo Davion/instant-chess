@@ -5,6 +5,12 @@
 body{
 	background: #ddd;
 }
+header{
+	width: 100%;
+	text-align: center;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
 #board{
 	width: 600px;
 	height: 600px;
