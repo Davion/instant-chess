@@ -1,0 +1,1 @@
+This is a simple chess game made by object oriented javascript.
